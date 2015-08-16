@@ -1,0 +1,30 @@
+{
+  "name": "grunt-boiler-plate",
+  "version": "0.1.0",
+  "description": "Boiler-plate for web/email projects using GruntJS.",
+  "scripts": {
+    "start": "grunt",
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshinn/grunt-boiler-plate.git"
+  },
+  "keywords": [
+    "boiler-plate",
+    "grunt",
+    "email",
+    "web",
+    "eshinn"
+  ],
+  "author": "Eric R. Shinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eshinn/grunt-boiler-plate/issues"
+  },
+  "homepage": "https://github.com/eshinn/grunt-boiler-plate#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13"
+  }
+}
